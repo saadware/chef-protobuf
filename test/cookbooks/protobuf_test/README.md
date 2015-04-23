@@ -23,6 +23,7 @@ Recipes
 -------
 
 * `default` - includes `protobuf::default`
+* `archive` - includes `protobuf::archive`
 
 Contributing
 ------------

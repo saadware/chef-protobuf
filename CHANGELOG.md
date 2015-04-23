@@ -1,3 +1,7 @@
+## 1.3.0
+
+* Enhancement: Default archive installs to latest stable release of Protobuf (2.6.1).
+
 ## 1.2.1
 
 * Fix: Support new location of archive files.

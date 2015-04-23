@@ -53,3 +53,8 @@ suites:
   - recipe[minitest-handler]
   - recipe[protobuf_test::default]
   attributes: {}
+- name: protobuf_archive
+  run_list:
+  - recipe[minitest-handler]
+  - recipe[protobuf_test::archive]
+  attributes: {}
