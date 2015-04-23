@@ -1,3 +1,7 @@
+## 1.2.1
+
+* Fix: Support new location of archive files.
+
 ## 1.2.0
 
 * Enhancement: Support Ubuntu 14.04+ C++ packages
