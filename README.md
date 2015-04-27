@@ -38,8 +38,8 @@ Attribute | Description | Type | Default
 ----------|-------------|------|--------
 checksum | SHA256 checksum for archive | String | auto-detected (see attributes/default.rb)
 install_dir | Installation prefix | String | /usr/local
-url | Archive URL | String | `https://protobuf.googlecode.com/files/protobuf-#{node['protobuf']['archive']['version']}.tar.bz2`
-version | Archive version to install | String | 2.5.0
+url | Archive URL | String | `https://github.com/google/protobuf/releases/download/v#{node['protobuf']['archive']['version']}/protobuf-#{node['protobuf']['archive']['version']}.tar.bz2`
+version | Archive version to install | String | 2.6.1
 
 ### Package Attributes
 

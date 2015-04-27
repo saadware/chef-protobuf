@@ -2,6 +2,10 @@
 
 This file is used to list changes made in each version of protobuf_test.
 
+## 0.2.0:
+
+* Added specific archive test.
+
 ## 0.1.0:
 
 * Initial release of docker_test
